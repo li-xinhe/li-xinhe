@@ -1,4 +1,4 @@
-# 👋 こんにちは / Hello! I'm Xinhe Li
+# 👋 Hello! This is Xinhe!
 
 I am a lecturer in the **Department of Social Informatics (社会情報学科)** at **Otaru University of Commerce**, a national university in Hokkaido, Japan. My research lies at the intersection of **Political Science**, **Natural Language Processing (NLP)**, and **Social Studies**. I completed my Ph.D. in Information Science at **Graduate School of Information Sciences, Tohoku University** in March 2024.
 
