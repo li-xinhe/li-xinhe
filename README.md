@@ -33,3 +33,8 @@ These classes emphasize practical analytical skills, programming basics, and dat
 Feel free to explore my work, connect on GitHub, or reach out for collaboration!  
 
 --- 
+
+<!-- Markdown -->
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
