@@ -1,6 +1,6 @@
 # 👋 Hello! This is Xinhe!
 
-I am a lecturer (permanent position) in the **Department of Information and Management Science (社会情報学科)** at **Otaru University of Commerce**, a national university in Hokkaido, Japan. My research lies at the intersection of **Political Science**, **Natural Language Processing (NLP)**, and **Social Studies**. I completed my Ph.D. in Information Science at **Graduate School of Information Sciences, Tohoku University** in March 2024.
+I am a lecturer (permanent position) in the **Department of Information and Management Science (社会情報学科)** at **Otaru University of Commerce**（小樽商科大学）, a national university in Hokkaido, Japan. My research lies at the intersection of **Political Science**, **Natural Language Processing (NLP)**, and **Social Studies**. I completed my Ph.D. in Information Science at **Graduate School of Information Sciences, Tohoku University** in March 2024.
 
 ---
 
